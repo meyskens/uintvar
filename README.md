@@ -1,7 +1,7 @@
 uintvar
 =======
 
-This package allows to parse a slice of bytes represeting a [uintvar](https://en.wikipedia.org/wiki/Variable-length_quantity#/media/File:Uintvar_coding.svg) which is a vatiable length encoding of a uint to a uint64 in Go.
+This package allows to parse a slice of bytes represeting a [uintvar](https://en.wikipedia.org/wiki/Variable-length_quantity#/media/File:Uintvar_coding.svg) which is a varible length encoding of a uint to a uint64 in Go.
 
 ## Example
 ```go
